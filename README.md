@@ -1,5 +1,7 @@
 # 多页面开发时性能问题
 
+issues地址：https://github.com/vuejs/vue-cli/issues/3838
+
 ## 复现步骤
 
 1. 克隆仓库，切换到`master`分支
