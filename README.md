@@ -27,7 +27,7 @@
 
 ## master 分支与 splitChunks 分支区别
 
-splitChunks 分支添加了`optimization.splitChunks`配置
+`splitChunks`分支添加了`optimization.splitChunks`配置
 
 ```js
 module.exports = {
